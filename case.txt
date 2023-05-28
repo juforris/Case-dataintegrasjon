@@ -1,0 +1,25 @@
+# Case
+
+## Oppgave «data-integrasjon»
+
+Lag en transformasjon og sammstilling av data hentet fra to eller flere kjente og åpne datasett. Bruk dette til å presentere en data-analyse. Eksempelvis finnes det mange åpne API’er og datsett her: https://data.norge.no/
+
+Bruk de teknologiene og verktøyene du mener løser oppgaven på en god og effektiv måte.
+
+Løsningen må kunne verifiseres av oss i ettertid, men trenger ikke å være en stor "produksjonsklar" og kjørende løsning. Om du velger å bruke et verktøy må dette verktøyet også være tilgjengelig for oss i ettertid.
+
+## Leveranser
+
+Vi ønsker oss enten en mail med evt. kode, pseudo-kode, dokumentasjon, skjermbilder o.l. ifbm med intervjuet.
+
+Noen ganger kan det være vrient å sende kode/script og kjørbare filer til oss pr mail – da kan det være lurt å sende oss en link til f.eks. GitHub eller et sted hvor vi kan laste det ned. Man kan også lage en PDF.
+
+I intervjuet vil du få inntil 15min til å presentere arbeidet ditt. Det er ingen tekniske hjelpemidler tilgjengelig (du får ikke lov til å ta med egen PC inn til intervjuet), så det er anbefalt å forberede presentasjonsmaterialet på papir el.l.
+
+## Mål
+
+Lager du et verktøy – da er vi mest interessert i kode, dokumentasjon osv.
+
+Bruker du et verktøy – da er vi mest interessert i metode, analyseteknikker osv.
+
+Oppgaven er ment å være åpen, og med stort mulighetsrom. Gjør gjerne egne forutsetninger og avgrensinger i oppgaven, men da er det viktig at du er tydelig på disse i besvarelsen din.
